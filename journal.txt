@@ -3,5 +3,5 @@ Title: Some Stuff
 
 Abstract: A summary of some stuff
 Introduction:
-Data:
+Data: No data collected yet. Fingers crossed it matches the expected outcome!
 Conclusion:
