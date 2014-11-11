@@ -1,5 +1,5 @@
-Author: R. L. Haines
-Title: Some Stuff 
+Author: Rebecca Haines, John Smith
+Title: Conference paper 
 
 Abstract: A summary of some stuff
 Introduction:
