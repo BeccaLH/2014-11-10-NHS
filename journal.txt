@@ -1,7 +1,7 @@
-Author:
-Title:
+Author: R. L. Haines
+Title: Some Stuff 
 
-Abstract:
+Abstract: A summary of some stuff
 Introduction:
 Data:
 Conclusion:
