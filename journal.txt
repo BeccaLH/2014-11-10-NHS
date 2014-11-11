@@ -1,4 +1,4 @@
-Author: R. L. Haines, John Smith, Nosey Supervisor
+Author: R. L. Haines,Laura Lopez Pascua, John Smith, Nosey Supervisor
 Title: The most exciting paper in the world
 
 Abstract: A summary of some stuff
