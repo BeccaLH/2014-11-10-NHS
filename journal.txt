@@ -3,7 +3,7 @@ Title: The most exciting paper in the world
 
 Abstract: A summary of some stuff
 
-Introduction:
+Introduction: Once upon a time.... 
 
 Data: No data collected yet. Fingers crossed it matches the expected outcome!
 Conclusion: We already know what this will say but we will wait for the data to be good.
